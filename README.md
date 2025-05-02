@@ -6,7 +6,7 @@
 
 [![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FFundamentals-of-Programming%2Frelease%2FImages%2FTestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Fundamentals-of-Programming)
 
-[Open in MATLAB Online](https://matlab.mathworks.com/open/github/hnxc/Matlab_fundamentals_of_programming)
+[Open in MATLAB Online](https://matlab.mathworks.com/open/github/hnxc/Matlab_fundamentals_of_programming&project=FundamentalsofProgramming.prj&file=README.mlx)
 **Curriculum Module**
 
 _Created with R2024a. Compatible with R2024a and later releases._
